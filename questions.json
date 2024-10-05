@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "In 3<sup>4</sup>, what is the base?",
+        "options": [
+            "4",
+            "3",
+            "12",
+            "17"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "In the expression 5<sup>-2</sup>, what does the number -2 represent?",
+        "options": [
+            "Base",
+            "Power",
+            "Multiplier",
+            "Divisor"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Alex used 2<sup>3</sup> blocks on one level. What does the power 3 mean?",
+        "options": [
+            "Multiply 2 by itself 2 times",
+            "Multiply 2 by itself 3 times",
+            "Add 2 three times",
+            "Divide 2 by 3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "In the expression 6<sup>5</sup>, which number is being multiplied repeatedly?",
+        "options": [
+            "6",
+            "5",
+            "30",
+            "11"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "In 10<sup>3</sup>, how many times do you multiply 10 by itself?",
+        "options": [
+            "10 times",
+            "3 times",
+            "1 time",
+            "30 times"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6",
+        "question": "How can you write 2×2×2×2 in exponential form?",
+        "options": [
+            "2<sup>3</sup>",
+            "2<sup>4</sup>",
+            "2<sup>2</sup>",
+            "4<sup>2</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Alex placed 5×5×5×5 blocks on one level. How can this be written in exponential form?",
+        "options": [
+            "5<sup>3</sup>",
+            "5<sup>4</sup>",
+            "4<sup>5</sup>",
+            "5<sup>5</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Simplify 7×7×7 into exponential form.",
+        "options": [
+            "7<sup>3</sup>",
+            "3<sup>7</sup>",
+            "7<sup>2</sup>",
+            "7<sup>1</sup>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Which expression is the same as 9<sup>2</sup>?",
+        "options": [
+            "9×9×9",
+            "9×9",
+            "9+9",
+            "2×9"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Write 4×4×4×4×4 as a power.",
+        "options": [
+            "4<sup>5</sup>",
+            "5<sup>4</sup>",
+            "4<sup>4</sup>",
+            "4<sup>6</sup>"
+        ],
+        "correct": 0
+    }
+]
